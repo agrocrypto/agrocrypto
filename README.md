@@ -1,4 +1,4 @@
-AGRO Crypto Commodities - Blockchain Revolutionizing Agriculture
+AgroCrypto Platform - Blockchain Revolutionizing Agriculture
 [AGRO Logo]
 Introduction:
 AGRO Crypto Commodities is a groundbreaking blockchain platform empowering the agriculture sector. With seamless cross-border trading, smart contracts, and carbon credits integration, we revolutionize how commodities are traded globally.
