@@ -18,4 +18,4 @@ Why AGRO?
 Our platform aligns with Brics Governance, promoting agricultural ties between nations. AGRO is the future of agriculture trading, revolutionizing the industry with blockchain technology.
 Join the Movement!
 Become part of the AGRO community and shape the future of agriculture trading. Let's cultivate prosperity together!
-[agrocrypto.io]
+[https://agrocrypto.io]
